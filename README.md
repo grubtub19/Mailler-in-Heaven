@@ -18,35 +18,24 @@
 
 Mailler in Heaven is a top-down 2D action game where you play as Dr. Roger Mailler who takes on hoards of innocent demon horses using swords and guns. 
 
-The game was developed in Java using the Swing graphics engine. The game engine and gameplay were written from scratch and 90% of assets are my own including the following features:
+The game was developed in Java using the Swing graphics engine. The game engine and gameplay were written from scratch and 90% of assets are my own.
 
-Momentum-based movement
+## Features
 
-Multi-dash chaining
-
-Sliding (actionable and unactionable)
-
-Collision detection including momentum-conserving wall bounces
-
-Knockback/Staggering
-
-Swordplay
-
-Shotgun and piercing sniper rifle
-
-Unified ammo system
-
-Animated menu
-
-Instructions
-
-Photo-gallery
-
-Strip Image Loading
-
-Sound Engine
-
-etc.
+* Momentum-based movement
+* Multi-dash chaining
+* Sliding (actionable and unactionable)
+* Collision detection including momentum-conserving wall bounces
+* Knockback/Staggering
+* Swordplay
+* Shotgun and piercing sniper rifle
+* Unified ammo system
+* Animated menu
+* Instructions
+* Photo-gallery
+* Strip Image Loading
+* Sound Engine
+* etc.
 
 ## Warning
 

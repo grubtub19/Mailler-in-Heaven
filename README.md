@@ -1,18 +1,55 @@
 # Mailler in Heaven
 
-# Desciption
+## Video
 
-This is a 2D top down swordfighting and gunplay game. Think Legend of Zelda and Hyperlight drifter.
-It was written in Java using Swing, so everything other than the graphics was written from scratch. 95% of assets are my own.
+[![Gameplay Video](https://i.imgur.com/sTYDaOy.png)](https://www.youtube.com/watch?v=CfrEi_nRh0g)
 
-Features include sword swinging, multi-dash chaining, acceleration based movement, 2 guns you can toggle between, unified ammo system, knockback, collision detection, sliding, wall-bouncing, a photo gallery, instructions page, menu with animations, the list goes on.
-This was my first large programming project.
+## Assets
 
-### Warning:
+![Mailler Strip Image](https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/maillerstrip2.png?raw=true)
 
-The code is structured well, but unoptimized, and not well written. I tried revamping the code, but I haven't finished, so this is just my development repo. It's a really big project, so re-vamping it has taken a VERY long time and I don't know if I will ever finish.
+![Pony Strip Image](https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/rarityStrip.png?raw=true)
 
-# Video
+![Sword Strip Image](https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/swoosh.png?raw=true)
 
-https://www.youtube.com/watch?v=CfrEi_nRh0g
+<img src="https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/winner.png?raw=true" width=800px>
 
+## Desciption
+
+Mailler in Heaven is a top-down 2D action game where the playing takes on hoards of demon horses using their sword and two guns. 
+
+The game was developed in Java using the Swing graphics engine. The game engine and gameplay were written from scratch and 90% of assets are my own including the following features:
+
+Momentum-based movement
+
+Multi-dash chaining
+
+Sliding (actionable and unactionable)
+
+Collision detection including momentum-conserving wall bounces
+
+Knockback/Staggering
+
+Swordplay
+
+Shotgun and piercing sniper rifle
+
+Unified ammo system
+
+Animated menu
+
+Instructions
+
+Photo-gallery
+
+Strip Image Loading
+
+Sound Engine
+
+etc.
+
+## Warning
+
+This was my first large programming project in my undergraduate, so the code is a bit poorly written.
+
+This repository is not in working condition as I am in the process of overhauling the game engine. Since it's quite a large project, I am unsure if it will even be in a working state again.

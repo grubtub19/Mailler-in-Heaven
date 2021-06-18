@@ -1,5 +1,9 @@
 # Mailler in Heaven
 
+Mailler in Heaven is a top-down 2D action game where you play as Dr. Roger Mailler who takes on hoards of innocent demon horses using swords and guns. 
+
+The game was developed in Java using the Swing graphics engine. The game engine and gameplay were written from scratch and 90% of assets are my own.
+
 ## Video
 
 [![Gameplay Video](https://i.imgur.com/sTYDaOy.png)](https://www.youtube.com/watch?v=CfrEi_nRh0g)
@@ -12,13 +16,7 @@
 
 ![Sword Strip Image](https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/swoosh.png?raw=true)
 
-<img src="https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/winner.png?raw=true" width=800px>
-
-## Desciption
-
-Mailler in Heaven is a top-down 2D action game where you play as Dr. Roger Mailler who takes on hoards of innocent demon horses using swords and guns. 
-
-The game was developed in Java using the Swing graphics engine. The game engine and gameplay were written from scratch and 90% of assets are my own.
+<img src="https://github.com/grubtub19/Mailler-in-Heaven/blob/master/target/classes/Images/winner.png?raw=true" width=600px>
 
 ## Features
 

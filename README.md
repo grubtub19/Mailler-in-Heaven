@@ -5,7 +5,7 @@
 This is a 2D top down swordfighting and gunplay game. Think Legend of Zelda and Hyperlight drifter.
 It was written in Java using Swing, so everything other than the graphics was written from scratch. 95% of assets are my own.
 
-Features include sword swinging, multi-dashing, acceleration based movement, 2 guns you can toggle between, unified ammo system, knockback, collision detection, sliding, wall-bouncing, a photo gallery, instructions page, menu with animations, the list goes on.
+Features include sword swinging, multi-dash chaining, acceleration based movement, 2 guns you can toggle between, unified ammo system, knockback, collision detection, sliding, wall-bouncing, a photo gallery, instructions page, menu with animations, the list goes on.
 This was my first large programming project.
 
 ### Warning:

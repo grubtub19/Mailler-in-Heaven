@@ -4,9 +4,10 @@ Mailler in Heaven is a top-down 2D action game where you play as Dr. Roger Maill
 
 The game was developed in Java using the Swing graphics engine. The game engine and gameplay were written from scratch and 90% of assets are my own.
 
-## Video
+## Youtube Link (Click)
 
-[![Gameplay Video](https://i.imgur.com/sTYDaOy.png)](https://www.youtube.com/watch?v=CfrEi_nRh0g)
+[![video](https://user-images.githubusercontent.com/35621581/128012234-001a45f2-43c3-4821-bbf6-1f0e836d3453.gif)
+](https://www.youtube.com/watch?v=CfrEi_nRh0g)
 
 ## Assets
 
